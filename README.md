@@ -1,0 +1,2 @@
+# distro
+script spam wa 
