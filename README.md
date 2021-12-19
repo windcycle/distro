@@ -1,5 +1,5 @@
 # How to use?
-1.Copy script.js
+1.Klik file spam.js kemudian copy script spam.js 
 
 2.Pergi whatsapp web lalu tekan ctrl+i
 
