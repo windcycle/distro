@@ -1,2 +1,2 @@
-# Hoki 
-Hoki spam wa orang 
+# Gabut
+Gabut ngab! Hoki jomki
