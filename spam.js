@@ -8,3 +8,4 @@ for(let spam = 0;spam<spamCounter;spam++){
     textbox.dispatchEvent(spamEvent);
     document.getElementsByClassName("_4sWnG")[0].click();
 } 
+// Created by:L.Adrian
