@@ -6,6 +6,6 @@ var textbox = document.getElementsByClassName("_13NKt copyable-text selectable-t
 for(let spam = 0;spam<spamCounter;spam++){
     textbox.innerHTML = spamMessage;
     textbox.dispatchEvent(spamEvent);
-    document.getElementsByClassName("_4sWnG")[0].click();
+    document.querySelector('span[data-icon="send"]').click();
 } 
-// Created by:L.Adrian
+// UPDATE
